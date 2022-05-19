@@ -1,5 +1,6 @@
-<h2 align="center"> Hi there 👋</h2>
+<h1 align="center"> Hi there 👋</h1>
 
+<h2> About me: </h2>
 Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, and a Web3 nerd.
 <br>
 - 🔭 I’m currently buidling CryptoGangDAO and
@@ -15,3 +16,12 @@ Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, an
   - <img src="https://avatars.githubusercontent.com/u/34167658?s=200&v=4" width=20px> s3kai.eth
 - ⚡ Fun fact: DBZ was my favorite anime growing up, but One Piece is currently in GOAT status for me
 
+
+<h2> My Skillset: </h2>
+- Solidity
+- Typescript/Javascript
+- Hardhat
+- Ethers
+- A little React/Vue
+- Python
+- Network Engineering
