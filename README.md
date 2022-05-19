@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-<h2> About me: </h2>
+## About me:
 Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, and a Web3 nerd.
 <br>
 - 🔭 I’m currently buidling CryptoGangDAO and
@@ -17,7 +17,9 @@ Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, an
 - ⚡ Fun fact: DBZ was my favorite anime growing up, but One Piece is currently in GOAT status for me
 
 
-<h2> My Skillset: </h2>
+## My Skillset:
+I've had a long career in Network Engineering and actively working to become a developer!
+<br>
 - Solidity
 - Typescript/Javascript
 - Hardhat
