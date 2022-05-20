@@ -15,6 +15,7 @@ Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, an
   - <img src="https://img.icons8.com/color/344/twitter--v1.png" width=20px> https://twitter.com/sekaieth
   - <img src="https://avatars.githubusercontent.com/u/34167658?s=200&v=4" width=20px> s3kai.eth
 - ⚡ Fun fact: DBZ was my favorite anime growing up, but One Piece is currently in GOAT status for me
+<img src="https://c.tenor.com/-cdAD8LRCV4AAAAS/luffy-gum-gum-red-roc.gif" width="300">
 
 
 ## My Skillset:
