@@ -32,5 +32,6 @@ I've had a long career in Network Engineering and actively working in my spare t
 # Projects Launched
 ## HackMoney2022 Hackathon
 **PRNTS**
+- A music-based social media platform to help artists create communities with their fanbase - Web3 style
 - <img src="https://mpng.subpng.com/20180615/kff/kisspng-computer-icons-github-logo-github-5b23f7d7474c14.790619341529083863292.jpg" width=20px> [GitHub Repo](https://github.com/PrntNft/PRNTS-Smart-Contracts)
 - <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px> [Deployed contract on Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0xccD0edfb743C74460f9Fb2e19D87feDf3688AB3E#code)
