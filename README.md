@@ -19,7 +19,7 @@ Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, an
 
 
 ## My Skillset:
-I've had a long career in Network Engineering and actively working in my spare time to become a developer!
+I've had a long career in Network Engineering (12 years and counting) and actively working in my spare time to become a developer!
 <br>
 - Solidity
 - Typescript/Javascript
