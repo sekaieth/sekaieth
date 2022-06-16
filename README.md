@@ -31,6 +31,8 @@ I've had a long career in Network Engineering (12 years and counting) and active
 - A little React/Vue
 - Python
 - Network Engineering
+  - Cisco CCNA (expired)
+  - Juniper JNCIS-SEC (expired)
 
 # Projects Launched
 ## HackMoney2022 Hackathon
