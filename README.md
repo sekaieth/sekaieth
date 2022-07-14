@@ -10,7 +10,7 @@ Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, an
 - 🌱 I’m currently learning:
   -   [LayerZero](https://layerzero.network/) - Cross-chain messaging protocol
   -   [Superfluid](https://www.superfluid.finance/home) - On-chain payment rails
-  -   🌿 [Lens Protocol](https://docs.lens.xyz/docs/what-is-lens) - Free online Harvard Computer Science basics course
+  -   🌿 [Lens Protocol](https://docs.lens.xyz/docs/what-is-lens) - Decentralized social media protocol from the Aave team
 - 👯 I’m looking to collaborate on smart contract development.
 - 🤔 I’m looking for help with all things development.  I am learning on the fly!
 - 💬 Ask me about my instruments 🎸
