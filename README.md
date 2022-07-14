@@ -3,14 +3,14 @@
 ## About me:
 Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, and a Web3 nerd.
 <br>
-- 🔭 I’m currently buidling: 
+- 👷‍♂️ I’m currently buidling: 
   - <img src="https://pbs.twimg.com/profile_images/1516251831009259523/IwgHxfOE_400x400.jpg" width=25px>[CryptoGangDAO/FWD_DAO](https://twitter.com/fwd_dao)(⬆️,🚀)
     - [Join our Discord!](https://pbs.twimg.com/profile_images/1516251831009259523/IwgHxfOE_400x400.jpg)
   - [<img src="https://prnts.vercel.app/prnts-logo.svg" width=50px>](https://prnts.vercel.app)
 - 🌱 I’m currently learning:
   -   [LayerZero](https://layerzero.network/) - Cross-chain messaging protocol
   -   [Superfluid](https://www.superfluid.finance/home) - On-chain payment rails
-  -   [Harvard CS50X](https://cs50.harvard.edu/x/2022/) - Free online Harvard Computer Science basics course
+  -   🌿 [Lens Protocol](https://docs.lens.xyz/docs/what-is-lens) - Free online Harvard Computer Science basics course
 - 👯 I’m looking to collaborate on smart contract development.
 - 🤔 I’m looking for help with all things development.  I am learning on the fly!
 - 💬 Ask me about my instruments 🎸
@@ -38,15 +38,17 @@ I've had a long career in Network Engineering (12 years and counting) and active
   - Juniper JNCIS-SEC (expired)
 
 # Contracts Deployed
-<h2> HackMoney2022 Hackathon 
-<img href="https://blockscout.com/xdai/mainnet/tx/0x2d79edfdc88e44afeca95b2fd04917205cb189634dcee4996f22ebd69e19ef6d" 
-     src="https://assets.poap.xyz/graph-hack-2022-2022-logo-1654033155359.png" 
-     width=50px
-     />
- </h2>
-**PRNTS**
-- A music-based social media platform to help artists create communities with their fanbase - Web3 style.  Based on Lens and Superfluid Protocols
-- <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px /> [Deployed contract on Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0xccD0edfb743C74460f9Fb2e19D87feDf3688AB3E#code)
+
+### <img src="https://prnts.vercel.app/prnts-logo.svg" width=75px>
+- A music-based social media platform to help artists create communities with their fanbase - Web3 style.  Built on Lens and Superfluid Protocols.
+  - I first worked with the PRNTS team during HackMoney2022 to create an NFT staking contract.
+  - <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px /> [Deployed staking contract on Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0xccD0edfb743C74460f9Fb2e19D87feDf3688AB3E#code)
+
+- After HackMoney2022, the PRNTS team invited me to work with them to be the smart contract developer for the platform, and I agreed!
+  - I wrote a storage contract to store data that we cannot inherently store within the Lens or Superfluid protocols.
+  - Currently writing a custom Lens protocol Collect module for the platform
+  - <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px /> [Deployed contract on Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0x3dcd8e42220a23bd80ee12227a3e16d9f641e2f3#code)
+
 
 ## CryptoGangDAO/FWD_DAO
 - 2 Co-DAOs with shared visions but distinctly different roles
@@ -57,10 +59,8 @@ I've had a long career in Network Engineering (12 years and counting) and active
   - Education of core crypto ethos (self-sovereignty, self-custodial wallets, trustless and decentralized protocols)
   - Promotion of UBI
 - NFT project to be released in 1-2 months - details still classified, repo still private
-
-<img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px />[Deployed test "soulbound" NFT contract on Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0xa22bcea2f6FD504B3c5AEe6FeCc71c3e2B40727c#code)
-
-<img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px />[Deployed test GIGADRIP20 contract to Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0x8a0cD98703893F426455b06036cef84618D7B5f5#code)
+- <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px />[Deployed test "soulbound" NFT contract on Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0xa22bcea2f6FD504B3c5AEe6FeCc71c3e2B40727c#code)
+- <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px />[Deployed test GIGADRIP20 contract to Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0x8a0cD98703893F426455b06036cef84618D7B5f5#code)
 
 ### FWD_DAO
 - A DAO centered around:
