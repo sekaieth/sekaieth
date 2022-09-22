@@ -59,7 +59,7 @@ I've had a long career in Network Engineering (12 years and counting) and active
   - Education of core crypto ethos (self-sovereignty, self-custodial wallets, trustless and decentralized protocols)
   - Promotion of UBI
 - NFT project to be released in 1-2 months - details still classified, repo still private
-- <img src="https://www.nicepng.com/png/full/152-1525748_ethereum-logo-png.png" width=15px />[Deployed CryptoGang DAOge 100% on-chain NFT pre-Ethereum merge](https://etherscan.io/address/0x972593255aa249d48569ae81d4e09523646f2953)
+- <img src="https://www.nicepng.com/png/full/152-1525748_ethereum-logo-png.png" width=20px />[Deployed CryptoGang DAOge 100% on-chain NFT pre-Ethereum merge](https://etherscan.io/address/0x972593255aa249d48569ae81d4e09523646f2953)
 - <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px />[Deployed test "soulbound" NFT contract on Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0xa22bcea2f6FD504B3c5AEe6FeCc71c3e2B40727c#code)
 - <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2" width=20px />[Deployed test GIGADRIP20 contract to Polygon Mumbai Testnet](https://mumbai.polygonscan.com/address/0x8a0cD98703893F426455b06036cef84618D7B5f5#code)
 
