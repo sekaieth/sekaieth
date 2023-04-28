@@ -2,26 +2,48 @@
 
 ## About me:
 Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, and a full stack Web3 developer.
-<br>
-- 👷‍♂️ I’m currently buidling: 
-  - [CryptoGangDAO/FWD_DAO](https://twitter.com/fwd_dao)(⬆️,🚀)
-    - [Join our Discord!](https://pbs.twimg.com/profile_images/1516251831009259523/IwgHxfOE_400x400.jpg)
-  - [Publius](https://www.github.com/sekaieth/Publius)
-    - 100% On-Chain, permissionless, self-custodial document publishing protocol
-- 📫 How to reach me:
-  - 📨 email: sekaieth@proton.me
-  - <img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width=20px /> SΞkai#6624
-  - <img src="https://img.icons8.com/color/344/telegram-app--v1.png" width=20px /> sekaieth
-  - <img src="https://img.icons8.com/color/344/twitter--v1.png" width=20px /> https://twitter.com/sekaieth
-  - <img src="https://avatars.githubusercontent.com/u/34167658?s=200&v=4" width=20px /> s3kai.eth
+<br />
+<br />
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sekaieth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekaieth&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<h2> 👷‍♂️ I’m currently buidling: </h2>
+  <ul>
+  <div>
+    <h3>CryptoGangDAO(⬆️,🚀)</h3>
+     <a href="">Join our Discord!</a>
+  </div>
+  <div>
+    <h3><a href="https://publiusprotocol.xyz">Publius</a></h3>
+    <p>100% On-Chain, permissionless, self-custodial document publishing protocol</p>
+    <p>Website published to IPFS for maximum decentralization</p>
+  </div>
+  <div>
+    <h3><a href="https://tiduswallet.io/">TidusDAO</a></h3>
+    <p>Multichain wallet with built-in access to permissionless defi</p>
+    <p>Building the first RomanDAO</p>
+  </div>
+ </ul>
+<br />
+<br /> 
+<h2>📫 How to reach me:</h2>
+  <ul>
+    <p>📨 email: sekaieth@proton.me</p>
+    <p><img src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width=20px /> SΞkai#6624</p>
+    <p><img src="https://img.icons8.com/color/344/telegram-app--v1.png" width=20px /> sekaieth</p>
+    <p><img src="https://img.icons8.com/color/344/twitter--v1.png" width=20px /> <a href="https://twitter.com/sekaieth">Twitter</a></p>
+    <p><img src="https://avatars.githubusercontent.com/u/34167658?s=200&v=4" width=20px /> s3kai.eth</p>
+  </ul>
+ <br />
 
 ## My Skillset:
-- Solidity
-- Typescript/Javascript
-- Hardhat
-- Ethers
-- React
-- GraphQL (The Graph)
+<p align="left" padding="10px">
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" width="75px" padding="5px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201"   width="75px" padding="10px" />
+  <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="75px" padding="5px" />
+  <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" width="75px" padding="5px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png?20220125121207" width="75px" padding="5px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737" width="75px" padding="5px" />
+</p>
 
 ## Contracts Deployed
 
