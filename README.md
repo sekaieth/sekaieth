@@ -2,8 +2,9 @@
 
 ## About me:
 Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, and a full stack Web3 developer.
-<br />
-<br />
+
+## Github Stats
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sekaieth&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sekaieth&size_weight=0.5&count_weight=0.5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> 👷‍♂️ I’m currently buidling: </h2>
@@ -77,4 +78,23 @@ Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, an
 <img src="https://storage.googleapis.com/nftimagebucket/gnosisscan/tokens/0x22c1f6050e56d2876009903609a2cc3fef83b415/preview/5120694.png" width="150px" />
 <img src="https://ipfs.io/ipfs/bafybeie7kqewh32bcr5xu53hgscnnbepysimdn7wgmiydico35hsiivfse" width="150px" />
 <img src="https://storage.googleapis.com/nftimagebucket/gnosisscan/tokens/0x22c1f6050e56d2876009903609a2cc3fef83b415/preview/6512786.gif" width="150px" />
-</div>                                                                                                                                           
+</div>     
+
+
+# About Me (Cont'd)
+34 years old.  I'm a very proud father of 2 boys and husband.  My full-time job currently is as a Senior Solutions Engineer at a local ISP.  I possess an extensive tech background in Network Engineering, and a PC enthusiast from the time I could write my ABCs.
+
+## Hobbies
+Outside of crypto, which is my primary hobby that I'd like to make my career, my hobbies are:
+
+  ### Video Games
+  I love RPGs in general, but the latest swath of adventure games with RPG elements really hits a good spot for me.  I also really enjoy space sims/exploration games
+  I'm currently playing Ghost of Tsushima after having beaten Breath of the Wild.  Once I finish Ghost of Tsushima, I'll be picking up Jedi: Survivor and blasting through that as I absolutely LOVE the Star Wars universe, and loved Jedi: Fallen Order.
+  
+  ### Music
+  I've played bass and guitar since 8th grade, which was about 20 years ago now.  I'm old.  I play on-and-off, so my skills never really have developed since my early 20s, when I played in a small time local band.  
+  
+  I love metal in most forms.  Some of my favorite bands are nu-metal, like Linkin Park and System of a Down, but I mostly listen to metalcore/deathcore in more recent music.
+ 
+  
+  
