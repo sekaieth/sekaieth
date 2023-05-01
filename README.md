@@ -89,6 +89,7 @@ Outside of crypto, which is my primary hobby that I'd like to make my career, my
 
   ### Video Games
   I love RPGs in general, but the latest swath of adventure games with RPG elements really hits a good spot for me.  I also really enjoy space sims/exploration games
+  
   I'm currently playing Ghost of Tsushima after having beaten Breath of the Wild.  Once I finish Ghost of Tsushima, I'll be picking up Jedi: Survivor and blasting through that as I absolutely LOVE the Star Wars universe, and loved Jedi: Fallen Order.
   
   ### Music
