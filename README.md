@@ -42,14 +42,18 @@ Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, an
     </ul>
      <ul>
       <h3><a href="https://tiduswallet.io/">TidusDAO</a></h3>
-      <ul>Multichain wallet with built-in access to permissionless defi
+      <ul>Multichain wallet with built-in access to permissionless defi.  Building the first RomanDAO.
+        <ul>
+          <img src="https://www.nicepng.com/png/full/152-1525748_ethereum-logo-png.png" width=15px>
+            Tidus Router deployed to <a href="https://etherscan.io/address/0x86EaB10eFc3d2A58E74B4c8f07c04d8De4C8AD19#code">Ethereum</a>
+          </img>
+        </ul>
         <ul>
           <img src="https://polygontechnology.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fdc0b7b88-a394-42f1-ac03-6e4959b71170%2FMonochrome_White.svg?table=block&id=6bb516b4-9582-4d74-b2de-881dffde06e8&spaceId=51562dc1-1dc5-4484-bf96-2aeac848ae2f&userId=&cache=v2"  width=20px>
-            Tidus Router first deployed to <a href="https://polygonscan.com/address/0x25FE78750f6b756ef8E7946C76C751D080E78c7b">Polygon</a>
+            Tidus Router deployed to <a href="https://polygonscan.com/address/0x25FE78750f6b756ef8E7946C76C751D080E78c7b">Polygon</a>
           </img>
         </ul>
       </ul>
-      <ul>Building the first RomanDAO</ul>
     </ul>
 <br />
 <br /> 
