@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-## About me:
+# About me:
 Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, and a full stack Web3 developer.
 
 ## Github Stats
