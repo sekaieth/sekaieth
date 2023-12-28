@@ -77,6 +77,7 @@ Name's Logan.  I am a father of two, a husband, a hobbyist musician, a gamer, an
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png?20161105194737" width="75px" padding="10px" />
   <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" width="75px" padding="10px" />
   <img src="https://seeklogo.com/images/E/ethers-logo-D5B86204D8-seeklogo.com.png" width="75px" padding="10px" />
+  <img src="https://icon.icepanel.io/Technology/svg/Solid.js.svg" width="75p" padding="10px" />
 </div>
 
 ## POAPs
